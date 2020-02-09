@@ -1,7 +1,7 @@
 {
   "name": "material",
   "version": "0.0.1",
-  "private": false,
+  "private": true,
   "homepage": "http://krlex.github.io/material",
   "dependencies": {
     "@material-ui/core": "^4.4.2",
